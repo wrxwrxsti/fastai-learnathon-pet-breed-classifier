@@ -44,3 +44,5 @@ Built for the [FastAI Learnathon](https://www.notion.so/Submit-Final-Output-Bonu
 
 Made with ❤️ using FastAI, Python, and Google Colab.
 
+👉 [Click here to view the notebook](https://github.com/wrxwrxsti/fastai-learnathon-pet-breed-classifier/blob/main/pet_breed_model.ipynb)
+
